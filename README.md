@@ -49,16 +49,13 @@
 - **Просмотр** — отображает одноклассников в новом формате (с разделением на фамилию, имя и отчество).
   <p align="center">
     <img src="https://github.com/user-attachments/assets/d46a2aba-1273-425e-a8d3-9f70932cd02f" width="250">
-      
     <img src="https://github.com/user-attachments/assets/885fc66a-61f0-4706-a40d-15eb548ef1ca" width="250">
 </p> 
 
 - **Добавить** — добавляет новую запись.
 <p align="center">
     <img src="https://github.com/user-attachments/assets/e8a7cca4-e750-4bc8-ab50-23238512fa55" width="250">
-    
     <img src="https://github.com/user-attachments/assets/7e20833f-2a2b-4951-b2e3-6fb58419617f" width="250">
-    
     <img src="https://github.com/user-attachments/assets/d8df91be-fad6-48d7-975e-0657967c1a96" width="250">
 </p> 
 
